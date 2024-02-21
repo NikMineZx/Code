@@ -1,0 +1,33 @@
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\TPS Lab.exe
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\TPS Lab.deps.json
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\TPS Lab.runtimeconfig.json
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\TPS Lab.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\TPS Lab.pdb
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS_Lab.Form1.resources
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.csproj.GenerateResource.cache
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.AssemblyInfoInputs.cache
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.AssemblyInfo.cs
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.csproj.CoreCompileInputs.cache
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.sourcelink.json
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\refint\TPS Lab.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.pdb
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.genruntimeconfig.cache
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\ref\TPS Lab.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.csproj.AssemblyReference.cache
+C:\Code\C#-code\TPS Lab\TPS Lab\obj\Debug\net8.0-windows\TPS Lab.csproj.CopyComplete
