@@ -1,0 +1,15 @@
+C:\Code\C#-code\CodeParser\CodeParser\bin\Debug\net8.0\CodeParser.exe
+C:\Code\C#-code\CodeParser\CodeParser\bin\Debug\net8.0\CodeParser.deps.json
+C:\Code\C#-code\CodeParser\CodeParser\bin\Debug\net8.0\CodeParser.runtimeconfig.json
+C:\Code\C#-code\CodeParser\CodeParser\bin\Debug\net8.0\CodeParser.dll
+C:\Code\C#-code\CodeParser\CodeParser\bin\Debug\net8.0\CodeParser.pdb
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.AssemblyInfoInputs.cache
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.AssemblyInfo.cs
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.csproj.CoreCompileInputs.cache
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.sourcelink.json
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.dll
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\refint\CodeParser.dll
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.pdb
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\CodeParser.genruntimeconfig.cache
+C:\Code\C#-code\CodeParser\CodeParser\obj\Debug\net8.0\ref\CodeParser.dll

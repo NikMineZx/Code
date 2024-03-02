@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TPS Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32a5cbfcc71dc4886e9e778386d59289fa716e4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d41ca93e263cf018b04bf1d0cf0f0c60ad8f20be")]
 [assembly: System.Reflection.AssemblyProductAttribute("TPS Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TPS Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
